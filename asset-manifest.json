@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/jessakhi/static/js/main.5ffb3320.js",
+    "static/media/cielmonp.jpg": "/jessakhi/static/media/cielmonp.a8b874e22b2e5c65391d.jpg",
+    "static/media/othello.jpg": "/jessakhi/static/media/othello.250b5ebba1e6df9b781b.jpg",
+    "static/media/fentyb.jpg": "/jessakhi/static/media/fentyb.7f3bef4fe5dd935fd7da.jpg",
+    "static/media/mlunet.jpg": "/jessakhi/static/media/mlunet.246d052579964734e209.jpg",
+    "static/media/mnsitf.jpg": "/jessakhi/static/media/mnsitf.32b1d25be4749c97cc77.jpg",
+    "static/media/mypic.jpeg": "/jessakhi/static/media/mypic.bf287ee8de73d67ff732.jpeg",
+    "static/media/heartd.jpg": "/jessakhi/static/media/heartd.24bbf44ac0a1034cb49c.jpg",
+    "static/media/email.png": "/jessakhi/static/media/email.ed4eda199be9250fc281.png",
+    "static/media/contact-mail.png": "/jessakhi/static/media/contact-mail.85b72314fa30bc76799a.png",
+    "static/media/itimonp.jpg": "/jessakhi/static/media/itimonp.3b5fb2496984d76f9cdb.jpg",
+    "static/media/social.png": "/jessakhi/static/media/social.16911adb36e92af2a52d.png",
+    "index.html": "/jessakhi/index.html",
+    "main.5ffb3320.js.map": "/jessakhi/static/js/main.5ffb3320.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5ffb3320.js"
+  ]
+}
