@@ -8,4 +8,4 @@ I'm Jihane Essakhi, a final-year Computer Science student at INSA Rouen, passion
 
 I’m always eager to learn and explore opportunities at the intersection of technology, problem-solving, and innovation.  
 
-Feel free to explore my work here or connect with me on [LinkedIn](https://www.linkedin.com/in/jihane-essakhi-3aba351bb/).  
+Feel free to explore my work here [Potfolio](https://jessakhi.github.io/myportfolio) or connect with me on [LinkedIn](https://www.linkedin.com/in/jihane-essakhi-3aba351bb/).  
